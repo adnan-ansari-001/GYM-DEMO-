@@ -1,4 +1,4 @@
-# GYM
+    # GYM
 This is my first git repo
 <br>
-Author-Adnan Ansari
+Author-Adnan Ansari (Learner)
