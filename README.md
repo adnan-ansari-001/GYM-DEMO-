@@ -1,4 +1,4 @@
-# GYM-DEMO-
+# GYM
 This is my first git repo
 <br>
 Author-Adnan Ansari
